@@ -14,7 +14,7 @@ Classes are scheduled on Monday from 4:40-6:10PM in Gross Hall, Room 330. Note t
 Matthew Kenney<br>
 matthew.kenney@duke.edu<br>
 Assistant Research Professor<br>
-Art, Art History and Visual Studies<br> 
+Computational Media and Visual Studies<br> 
 
 David Carlson, Ph.D<br> 
 david.carlson@duke.edu<br> 
